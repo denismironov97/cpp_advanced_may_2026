@@ -70,7 +70,6 @@ int main()
     }
     else
     {
-
         std::cout << min_number << std::endl;
     }
 
